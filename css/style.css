@@ -394,7 +394,7 @@ ul .photo__gallery li {
 @media screen and (max-width: 768px) {
     #gallery ul {
         display: flex;
-        overflow-x:scroll;
+        /* overflow-x:scroll; */
         justify-content: flex-start;
         padding-bottom: 2px;
         margin-bottom: 80px;
